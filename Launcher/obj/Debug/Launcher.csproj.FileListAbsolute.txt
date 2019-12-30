@@ -1,0 +1,6 @@
+C:\Users\zipko\source\repos\Launcher\Launcher\bin\Debug\Launcher.exe.config
+C:\Users\zipko\source\repos\Launcher\Launcher\bin\Debug\Launcher.exe
+C:\Users\zipko\source\repos\Launcher\Launcher\bin\Debug\Launcher.pdb
+C:\Users\zipko\source\repos\Launcher\Launcher\obj\Debug\Launcher.exe
+C:\Users\zipko\source\repos\Launcher\Launcher\obj\Debug\Launcher.pdb
+C:\Users\zipko\source\repos\Launcher\Launcher\obj\Debug\Launcher.csprojAssemblyReference.cache
